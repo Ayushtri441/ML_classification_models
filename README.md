@@ -1,4 +1,4 @@
-# Athena-Global-project
+# ML-Classification Model
 
 In this project, we explored predictive modeling techniques to analyze whether a purchase will be made or not. Several models were employed, including Logistic Regression, Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Tree, and Random Forest. Let's dive into the key findings and conclusions from the project:
 
